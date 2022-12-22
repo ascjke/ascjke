@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 Hi, I’m Zakhar Borisov
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: zakhar.borisov@mail.ru
+
+#### Skills: Java / Spring / SQL / Docker / HTML / CSS / Vue / Linux
+
 
 <!--
 **ascjke/ascjke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
